@@ -1,5 +1,5 @@
 # ProjetoARV
-Teste RSI automatizado WEB
+Teste RSI automatizado pela WEB
 
 Neste teste foi utilizado dependências Maven, Java 11 e Selenium.
 Projeto escrito em Gherkin, para automatizar Cadastro e Login de Cliente
